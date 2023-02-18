@@ -1,43 +1,33 @@
 [{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcf7"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcf7",
   "serieName": "",
   "isnew": true,
   "name": "Game Theory Among Us That Wins EVERY TIME",
   "link": "https://www.youtube.com/watch?v=Ck604TT4hEg",
   "cat": "Strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcf8"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcf8",
   "serieName": "",
   "isnew": true,
   "name": "TOP 250 FUNNIEST MOMENTS IN AMONG US",
   "link": "https://www.youtube.com/watch?v=R1384Uq_iVQ",
   "cat": "Strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcf9"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcf9",
   "serieName": "",
   "isnew": true,
   "name": "Among Us - Bad Timing(NEW)",
   "link": "https://www.youtube.com/watch?v=HV49uXVuwFg",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcfa"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcfa",
   "serieName": "",
   "isnew": true,
   "name": "Worst Timing Ever in Among Us! Funny Moments",
   "link": "https://www.youtube.com/watch?v=XGJMQUqLMRc",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcfb"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcfb",
   "serieName": "",
   "isnew": true,
   "name": "Among Us NEW Map Airship Leaked Early",
@@ -51,81 +41,63 @@
   "link": "https://www.youtube.com/watch?v=M-W9Vh8YnmI",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcfc"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcfc",
   "serieName": "",
   "isnew": true,
   "name": "Among Us New Airship Map ANALYSIS",
   "link": "https://www.youtube.com/watch?v=IZ38cAqe9ww",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcfd"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcfd",
   "serieName": "",
   "isnew": true,
   "name": "Among Us, Airship Map Reveal",
   "link": "https://www.youtube.com/watch?v=Z0SVZdn0D98",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcfe"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcfe",
   "serieName": "movie",
   "isnew": false,
   "name": "The Room Where it Happens",
   "link": "https://www.youtube.com/watch?v=xKHepVJqbsU",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfcff"
-  },
+  "_id":  "60f2f62bab71459c8e6cfcff",
   "serieName": "3D Animation",
   "isnew": false,
   "name": "Among Us 3D Animation (EP11)",
   "link": "https://www.youtube.com/watch?v=4X0J0Vql71o",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd00"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd00",
   "serieName": "3D Animation",
   "isnew": false,
   "name": "Among Us RTX On EP10 (Mini Crewmates Revenge )",
   "link": "https://www.youtube.com/watch?v=6bcqi49yliM",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd01"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd01",
   "serieName": "3D Animation",
   "isnew": false,
   "name": "Among Us 3D Animation (EP9)",
   "link": "https://www.youtube.com/watch?v=8K-s6jL6SEI",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd02"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd02",
   "serieName": "3D Animation",
   "isnew": false,
   "name": "Among Us 3D Animation (EP6-8)",
   "link": "https://www.youtube.com/watch?v=dH0XKfm40Rk",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd03"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd03",
   "serieName": "3D Animation",
   "isnew": false,
   "name": "Among Us 3D Animation (EP1-5)",
   "link": "https://www.youtube.com/watch?v=9HlVcbJc7Hs&t=3s",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd04"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd04",
   "serieName": "AMONG US ANIMADO",
   "isnew": false,
   "name": "AMONG US ANIMADO 4",
@@ -139,18 +111,14 @@
   "link": "https://www.youtube.com/watch?v=rg_WZBENhnw",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd05"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd05",
   "serieName": "AMONG US ANIMADO",
   "isnew": false,
   "name": "AMONG US ANIMADO 2",
   "link": "https://www.youtube.com/watch?v=nXtFx59W6d0",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd06"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd06",
   "serieName": "AMONG US ANIMADO",
   "isnew": false,
   "name": "AMONG US ANIMADO",
@@ -164,198 +132,154 @@
   "link": "https://www.youtube.com/watch?v=z3Un_C784R8",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd07"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd07",
   "serieName": "LIFE ANIMATION",
   "isnew": false,
   "name": "EVERY DAY AMONG US IMPOSTOR LIFE ANIMATION 2",
   "link": "https://www.youtube.com/watch?v=dClrKg0TxSc",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd08"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd08",
   "serieName": "LIFE ANIMATION",
   "isnew": false,
   "name": "EVERY DAY AMONG US IMPOSTOR LIFE ANIMATION",
   "link": "https://www.youtube.com/watch?v=UHTQucdZWrM",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd09"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd09",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 10| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=BrLE41onNm4",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0a"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0a",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 9| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=FV3ria2Z2gQ",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0b"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0b",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 8| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=Y8djQvSdN4o",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0c"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0c",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 7| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=UfqV3dAoiUQ",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0d"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0d",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 6| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=uioLnStATUc",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0e"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0e",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 5| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=5-8nwgHo-8g",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd0f"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd0f",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 4| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=x61esYkURIs",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd10"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd10",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 3| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=rX7BP08hW_0",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd11"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd11",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic 2| Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=2Jz18tj-mEM",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd12"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd12",
   "serieName": "Among Us Logic",
   "isnew": false,
   "name": "Among Us Logic | Cartoon Animation",
   "link": "https://www.youtube.com/watch?v=qfGqxaY6k_U",
   "cat": "Series"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd13"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd13",
   "serieName": "",
   "isnew": false,
   "name": "op 10 SECRET Among Us Tips & Tricks",
   "link": "https://www.youtube.com/watch?v=A11vdo8c-WM",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd14"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd14",
   "serieName": "",
   "isnew": false,
   "name": "Ultimate Guide To Become a Pro3",
   "link": "https://www.youtube.com/watch?v=vr9qVfYWfKs",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd15"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd15",
   "serieName": "",
   "isnew": false,
   "name": "10 Types of Among Us Players",
   "link": "https://www.youtube.com/watch?v=7-mW1wviN0E",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd16"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd16",
   "serieName": "",
   "isnew": false,
   "name": "Among Us But Everyone Is DEAD..(MODS)",
   "link": "https://www.youtube.com/watch?v=WdwmVwAGX1Q",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd17"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd17",
   "serieName": "",
   "isnew": false,
   "name": "Among Us , Impostor moments",
   "link": "https://www.youtube.com/watch?v=Zz583vg2Cqo",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd18"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd18",
   "serieName": "",
   "isnew": false,
   "name": "AMONG US, but the IMPOSTOR is a HACKER",
   "link": "https://www.youtube.com/watch?v=yAylocfQhlU",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd19"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd19",
   "serieName": "",
   "isnew": false,
   "name": "Among Us tips to help you win games",
   "link": "https://www.youtube.com/watch?v=3Xr8iDUdbE0",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1a"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1a",
   "serieName": "",
   "isnew": false,
   "name": "How To Be Imposter EVERY Time In Among Us With Proof",
   "link": "https://www.youtube.com/watch?v=-P_iyMRDcjU",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1b"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1b",
   "serieName": "",
   "isnew": false,
   "name": "10 Games That COPIED Among Us",
   "link": "https://www.youtube.com/watch?v=2qN7TkyoH4E",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1c"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1c",
   "serieName": "",
   "isnew": false,
   "name": "Ultimate Guide To Become a Pro 2",
@@ -369,72 +293,56 @@
   "link": "https://www.youtube.com/watch?v=F5O0HJkpzvs",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1d"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1d",
   "serieName": "",
   "isnew": false,
   "name": "Ultimate Guide To Become a Pro",
   "link": "https://www.youtube.com/watch?v=ZcEu_logAQI",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1e"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1e",
   "serieName": "",
   "isnew": false,
   "name": "Game Theory Among Us",
   "link": "https://www.youtube.com/watch?v=OVms-94BZIE",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd1f"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd1f",
   "serieName": "",
   "isnew": false,
   "name": "50 Tips for Among Us",
   "link": "https://www.youtube.com/watch?v=L9f4vIYXsEU",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd20"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd20",
   "serieName": "",
   "isnew": false,
   "name": "HOW TO ALWAYS WIN AS IMPOSTOR IN AMONG US",
   "link": "https://www.youtube.com/watch?v=T8yzzowfc5k",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd21"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd21",
   "serieName": "",
   "isnew": false,
   "name": "Top 10 Tips & Tricks in Among Us , Ultimate Guide To Become a Pro",
   "link": "https://www.youtube.com/watch?v=i_iY-Qyzswk",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd22"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd22",
   "serieName": "",
   "isnew": false,
   "name": "Security Guard Challenge on AMONG US",
   "link": "https://www.youtube.com/watch?v=WP4_Y6r-Lj8",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd23"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd23",
   "serieName": "",
   "isnew": false,
   "name": "Best Among Us Moments Ever 3",
   "link": "https://www.youtube.com/watch?v=RHNJW55IcW8",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd24"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd24",
   "serieName": "",
   "isnew": false,
   "name": "Best Among Us Moments Ever 2",
@@ -448,198 +356,154 @@
   "link": "https://www.youtube.com/watch?v=fYMHvUkyEHg",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd25"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd25",
   "serieName": "",
   "isnew": false,
   "name": "Among Us - Perfect Timing 2",
   "link": "https://www.youtube.com/watch?v=AsS9AfJcuKY",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd26"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd26",
   "serieName": "",
   "isnew": false,
   "name": "Among Us Impostor Level Expert",
   "link": "https://www.youtube.com/watch?v=zuf-Pw-60UA",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd27"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd27",
   "serieName": "",
   "isnew": false,
   "name": "Among Us - Perfect Timing",
   "link": "https://www.youtube.com/watch?v=Bl6js39_Agc",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd28"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd28",
   "serieName": "",
   "isnew": false,
   "name": "Perfect timing, FAILS - Among Us",
   "link": "https://www.youtube.com/watch?v=ujDtlOIhYE0",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd29"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd29",
   "serieName": "",
   "isnew": false,
   "name": "Among Us - Perfect Timing",
   "link": "https://www.youtube.com/watch?v=K7C8trlRcUQ",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2a"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2a",
   "serieName": "",
   "isnew": false,
   "name": "AMONG US, but with 99 IMPOSTORS",
   "link": "https://www.youtube.com/watch?v=YTZ-GZPTND8",
   "cat": "strategy"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2b"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2b",
   "serieName": "",
   "isnew": false,
   "name": "among Us Tik Tok Montage",
   "link": "https://www.youtube.com/watch?v=9xnpcI7RZc8",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2c"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2c",
   "serieName": "",
   "isnew": false,
   "name": "AMONG US, but with 1001 PLAYERS",
   "link": "https://www.youtube.com/watch?v=4fDnjA7GNtc",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2d"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2d",
   "serieName": "",
   "isnew": false,
   "name": "The saddest thing ever in Among Us",
   "link": "https://www.youtube.com/watch?v=5noirTeKs7w",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2e"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2e",
   "serieName": "",
   "isnew": false,
   "name": "EVERY DAY AMONG US MINI-IMPOSTOR LIFE ANIMATION",
   "link": "https://www.youtube.com/watch?v=L-Cye3zATnM",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd2f"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd2f",
   "serieName": "",
   "isnew": false,
   "name": "the 900 IQ Camera Imposter trick in Among Us",
   "link": "https://www.youtube.com/watch?v=V1Gs999OEuM",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd30"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd30",
   "serieName": "",
   "isnew": false,
   "name": "Best of AMONG US but it's all Memes",
   "link": "https://www.youtube.com/watch?v=AOr5YiBqggc",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd31"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd31",
   "serieName": "",
   "isnew": false,
   "name": "TOP 300 FUNNIEST MOMENTS IN AMONG US",
   "link": "https://www.youtube.com/watch?v=eHZgT2eH0L0",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd32"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd32",
   "serieName": "",
   "isnew": false,
   "name": "300 IQ Impostor VS Unlucky , Among Us Funny Moments & Fails",
   "link": "https://www.youtube.com/watch?v=5WWdKEDr1Gk",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd33"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd33",
   "serieName": "",
   "isnew": false,
   "name": "Among Us RTX ON - 3D Animation - The domino effect",
   "link": "https://www.youtube.com/watch?v=xioLqTqUaqk",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd34"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd34",
   "serieName": "",
   "isnew": false,
   "name": "100 IMPOSTORS VENT TROLL! AMONG US Funny Moments",
   "link": "https://www.youtube.com/watch?v=P7XgwKL2XD4",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd35"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd35",
   "serieName": "",
   "isnew": false,
   "name": "Bad Timing in Among Us! Funny Moments",
   "link": "https://www.youtube.com/watch?v=ny_8twvXUoY",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd36"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd36",
   "serieName": "",
   "isnew": false,
   "name": "Among Us distraction dance animation",
   "link": "https://www.youtube.com/watch?v=nZBJnSvGAf0",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd37"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd37",
   "serieName": "",
   "isnew": false,
   "name": "100 Impostors Vent Troll , Among US Funny Moments & Fails",
   "link": "https://www.youtube.com/watch?v=ytuEuxgrgZQ",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd38"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd38",
   "serieName": "",
   "isnew": false,
   "name": "EVERY DAY AMONG US LIFE ANIMATION",
   "link": "https://www.youtube.com/watch?v=PaTZePjXfQw",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd39"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd39",
   "serieName": "",
   "isnew": false,
   "name": "Meme Compilation",
   "link": "https://www.youtube.com/watch?v=OFDz3MXrsAk",
   "cat": "fun"
 },{
-  "_id": {
-    "$oid": "60f2f62bab71459c8e6cfd3a"
-  },
+  "_id":  "60f2f62bab71459c8e6cfd3a",
   "serieName": "",
   "isnew": false,
   "name": "If Everything Was Like Among Us 2",
